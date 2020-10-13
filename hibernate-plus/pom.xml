@@ -44,7 +44,7 @@
         <hibernate.version>5.1.0.Final</hibernate.version>
         <velocity.version>1.7</velocity.version>
         <mysql.connector.version>5.1.39</mysql.connector.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <jboss.transaction.version>1.0.1.Final</jboss.transaction.version>
         <jboss.logging.version>3.3.0.Final</jboss.logging.version>
         <slf4j.version>1.7.21</slf4j.version>
