@@ -41,7 +41,7 @@
         <commons.dbcp2.version>2.1.1</commons.dbcp2.version>
         <commons.pool2.version>2.4.2</commons.pool2.version>
         <jsqlparser.version>0.9.6</jsqlparser.version>
-        <hibernate.version>5.1.0.Final</hibernate.version>
+        <hibernate.version>6.0.23.Final</hibernate.version>
         <velocity.version>1.7</velocity.version>
         <mysql.connector.version>5.1.39</mysql.connector.version>
         <junit.version>4.12</junit.version>
